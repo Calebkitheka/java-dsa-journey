@@ -13,6 +13,7 @@
 | 2026-04-18 | Linked Lists | Detect Cycle | ✅ Completed | Floyd's Tortoise & Hare algorithm |
 | 2026-04-19 | Searching | Binary Search | ✅ Completed | O(log n) divide & conquer |
 | 2026-04-20 | Searching | Rotated Array Search | ✅ Completed | Adaptive binary search for partial sorting |
+| 2026-04-21 | Trees | Validate BST | ✅ Completed | Mastered recursive bounds checking; learned hierarchical validation vs linear comparison |
 
 ## 🗂️ Repository Structure
 - `src/main/java/...` → All DSA implementations
