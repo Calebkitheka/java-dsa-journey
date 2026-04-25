@@ -16,6 +16,7 @@
 | 2026-04-21 | Trees | Validate BST | ✅ Completed | Mastered recursive bounds checking; learned hierarchical validation vs linear comparison |
 | 2026-04-22 | Trees | Validate BST, Max Depth (DFS) | ✅ Completed | Mastered recursive DFS; learned post-order traversal for hierarchical aggregation |
 | 2026-04-23 | Trees | Validate BST, Max Depth, Invert Tree | ✅ Completed | Mastered tree transformation via DFS; learned in-place structural modification |
+| 2026-04-24 | Trees | Validate BST, Max Depth, Invert, Level Order (BFS) | ✅ Completed | Mastered BFS queue pattern; learned level-by-level processing vs recursive DFS |
 
 ## 🗂️ Repository Structure
 - `src/main/java/...` → All DSA implementations
