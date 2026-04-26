@@ -18,6 +18,7 @@
 | 2026-04-23 | Trees | Validate BST, Max Depth, Invert Tree | ✅ Completed | Mastered tree transformation via DFS; learned in-place structural modification |
 | 2026-04-24 | Trees | Validate BST, Max Depth, Invert, Level Order (BFS) | ✅ Completed | Mastered BFS queue pattern; learned level-by-level processing vs recursive DFS |
 | 2026-04-25 | Trees | Validate BST, Max Depth, Invert, Level Order, Zigzag BFS | ✅ Completed | Mastered BFS variants; learned state-flag pattern for direction flipping |
+| 2026-04-26 | Dynamic Programming | Climbing Stairs | ✅ Completed | Mastered 1D DP foundation; learned space optimization from O(n) array to O(1) variables |
 
 ## 🗂️ Repository Structure
 - `src/main/java/...` → All DSA implementations
