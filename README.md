@@ -21,6 +21,7 @@
 | 2026-04-26 | Dynamic Programming | Climbing Stairs | ✅ Completed | Mastered 1D DP foundation; learned space optimization from O(n) array to O(1) variables |
 | 2026-04-27 | Dynamic Programming | Climbing Stairs, House Robber | ✅ Completed | Mastered decision-based 1D DP; learned 'take or skip' state transition pattern |
 | 2026-04-28 | Dynamic Programming | Climbing Stairs, House Robber, Coin Change | ✅ Completed | Mastered unbounded knapsack DP; learned bottom-up 1D array optimization & infinity placeholder pattern |
+| 2026-04-30 | Dynamic Programming | Climbing Stairs, House Robber, Coin Change, Unique Paths, LCS | ✅ Completed | Mastered 2D string DP; learned diagonal vs skip state transitions for sequence alignment |
 
 ## 🗂️ Repository Structure
 - `src/main/java/...` → All DSA implementations
