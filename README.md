@@ -23,6 +23,7 @@
 | 2026-04-28 | Dynamic Programming | Climbing Stairs, House Robber, Coin Change | ✅ Completed | Mastered unbounded knapsack DP; learned bottom-up 1D array optimization & infinity placeholder pattern |
 | 2026-04-30 | Dynamic Programming | Climbing Stairs, House Robber, Coin Change, Unique Paths, LCS | ✅ Completed | Mastered 2D string DP; learned diagonal vs skip state transitions for sequence alignment |
 | 2026-05-01 | Graphs | Number of Islands | ✅ Completed | Mastered grid-based DFS; learned in-place visited marking for connected components |
+| 2026-05-02 | Graphs/Backtracking | Number of Islands, Word Search | ✅ Completed | Mastered DFS backtracking; learned mark-explore-restore pattern for shared-state traversal |
 
 ## 🗂️ Repository Structure
 - `src/main/java/...` → All DSA implementations
