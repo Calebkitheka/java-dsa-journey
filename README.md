@@ -25,6 +25,8 @@
 | 2026-05-01 | Graphs | Number of Islands | ✅ Completed | Mastered grid-based DFS; learned in-place visited marking for connected components |
 | 2026-05-02 | Graphs/Backtracking | Number of Islands, Word Search | ✅ Completed | Mastered DFS backtracking; learned mark-explore-restore pattern for shared-state traversal |
 | 2026-05-07 | Stacks | Valid Parentheses | ✅ Completed | Mastered LIFO pattern; learned ArrayDeque usage & bracket matching via stack |
+| 2026-05-08 | Queues | Queue Using Stacks | ✅ Completed | Mastered LIFO→FIFO conversion; learned amortized O(1) two-stack buffer pattern |
+| 2026-05-09 | Stacks (Advanced) | Daily Temperatures | ✅ Completed | Mastered monotonic stack pattern; learned O(n) next-greater-element via index tracking |
 
 ## 🗂️ Repository Structure
 - `src/main/java/...` → All DSA implementations
