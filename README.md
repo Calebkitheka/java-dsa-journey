@@ -27,6 +27,7 @@
 | 2026-05-07 | Stacks | Valid Parentheses | ✅ Completed | Mastered LIFO pattern; learned ArrayDeque usage & bracket matching via stack |
 | 2026-05-08 | Queues | Queue Using Stacks | ✅ Completed | Mastered LIFO→FIFO conversion; learned amortized O(1) two-stack buffer pattern |
 | 2026-05-09 | Stacks (Advanced) | Daily Temperatures | ✅ Completed | Mastered monotonic stack pattern; learned O(n) next-greater-element via index tracking |
+| 2026-05-10 | Deques (Advanced) | Sliding Window Maximum | ✅ Completed | Mastered monotonic deque pattern; learned O(n) window max tracking via candidate pruning |
 
 ## 🗂️ Repository Structure
 - `src/main/java/...` → All DSA implementations
